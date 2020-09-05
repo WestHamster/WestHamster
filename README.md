@@ -9,7 +9,7 @@
 
 - 🔭I'm also working on NLP bots(self-made) [BackVisor](https://github.com/WestHamster/BackVisor)
 
-- 👨‍💻 All of my projects are available [here. Rest is classified information.]
+- 👨‍💻 All of my projects are available here. [Rest is classified information.]
 
 - 💬 Ask me about **Data Analysis,ML,NLP,spaCy,nltk,etc.**
 
