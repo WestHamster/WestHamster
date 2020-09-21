@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Statistics for python on Udemy**
 
-- 🔭I'm also working on NLP bots(self-made) [BackVisor](https://github.com/WestHamster/BackVisor)
+- 🔭I'm also working on NLP bots(self-made) [JobLinker](https://github.com/WestHamster/JobLinker)
 
 - 👨‍💻 All of my projects are available here. [Rest is classified information.]
 
