@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=westhamster" alt="westhamster" /> </p>
 
-- 🔭I'm working on Data Analysis [Feature_engg](https://github.com/WestHamster/Feature_engg)
+- 🔭I'm working as a Backend Development Engineer at [Digitap.ai] (https://github.com/digitapai)
 
-- 🌱 I’m currently learning **Statistics for python on Udemy**
+- 🌱 I’m currently learning **Django and Selenium**
 
-- 🔭I'm also working on NLP bots(self-made) [JobLinker](https://github.com/WestHamster/JobLinker)
+- 🔭I'm also working on few backend related projects wrt e-commerece. (Will surely put it out by this month's end)
 
 - 👨‍💻 All of my projects are available here. [Rest is classified information.]
 
-- 💬 Ask me about **Data Analysis,ML,NLP,spaCy,nltk,etc.**
+- 💬 Ask me about **Data Analysis,ML,NLP,spaCy,nltk,django,etc.**
 
 - 📫 How to reach me **aankur.anand28@gmail.com**
 
