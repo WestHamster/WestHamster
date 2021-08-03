@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=westhamster" alt="westhamster" /> </p>
 
-- 🔭I'm working as a Backend Development Engineer at [Digitap.ai] (https://github.com/digitapai)
+- 🔭I'm working as a Backend Development Engineer at Digitap.ai (https://github.com/digitapai)
 
 - 🌱 I’m currently learning **Django and Selenium**
 
