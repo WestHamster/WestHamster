@@ -5,17 +5,17 @@
 
 - 🔭I'm working as a Backend Development Engineer at Digitap.ai (https://github.com/digitapai)
 
-- 🌱 I’m currently learning **Django and Selenium**
+- 🌱 I’m currently learning **Designing highly scalable system**
 
-- 🔭I'm also working on few backend related projects wrt e-commerece. (Will surely put it out by this month's end)
+- 🔭I'm working on backend related projects wrt FinTech industry on Django, AWS and MySQL. (https://github.com/ankur28)
 
 - 👨‍💻 All of my projects are available here. [Rest is classified information.]
 
-- 💬 Ask me about **Data Analysis,ML,NLP,spaCy,nltk,django,etc.**
+- 💬 Ask me about **Data Analysis,ML,NLP,spaCy,nltk,django,AWS,MySQL.**
 
 - 📫 How to reach me **aankur.anand28@gmail.com**
 
-- ⚡ Fun fact **Wanted to become an Astrophysicist.**
+- ⚡ Fun fact **Wanted to become an Astrophysicist.(Will try it out for sure)**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=westhamster&show_icons=true" alt="westhamster" /></p>
