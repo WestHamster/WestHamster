@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Designing highly scalable system**
 
-- 🔭I'm working on backend related projects wrt FinTech industry on Django, AWS and MySQL. (https://github.com/ankur28)
+- 🔭I'm working on backend related projects wrt FinTech industry on Django, AWS and MySQL. (https://github.com/ankur28a)
 
 - 👨‍💻 All of my projects are available here. [Rest is classified information.]
 
